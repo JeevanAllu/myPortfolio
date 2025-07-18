@@ -10,7 +10,7 @@
 
 ---
 
-![Portfolio Screenshot](https://github.com/user-attachments/assets/e499575e-f214-48f7-a855-a9b3e33befee)
+![Portfolio Screenshot](public/screenshot.png)
 
 
 ## ✨ Overview
