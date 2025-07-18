@@ -10,7 +10,7 @@
 
 ---
 
-![Portfolio Screenshot](/public/screenshot.png)
+<!-- ![Portfolio Screenshot](/public/screenshot.png) -->
 
 
 ## ✨ Overview
